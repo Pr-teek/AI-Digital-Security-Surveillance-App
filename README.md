@@ -24,11 +24,11 @@ This project is designed to run on a live Arch Linux environment. It includes to
 
 Once you have booted into Arch Linux, open a terminal and run the following commands to install the necessary tools and dependencies:
 
-bash
+```bash
 sudo pacman -Syu  # Update the system
 sudo pacman -S john hashcat python hashid
 
-3. Update John the Ripper
+### 3. Update John the Ripper
 Download and Update John the Ripper's Source File
 
 Download the latest source code and apply updates to support the office2john script:
