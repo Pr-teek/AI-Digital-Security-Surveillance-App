@@ -27,6 +27,7 @@ Once you have booted into Arch Linux, open a terminal and run the following comm
 ```bash
 sudo pacman -Syu  # Update the system
 sudo pacman -S john hashcat python hashid
+```
 
 ### 3. Update John the Ripper
 Download and Update John the Ripper's Source File
