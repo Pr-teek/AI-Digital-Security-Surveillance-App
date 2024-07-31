@@ -36,3 +36,7 @@ Download the latest source code and apply updates to support the office2john scr
 git clone https://github.com/openwall/john.git
 cd john/src
 
+
+** Ensure that the application folder is in /home/user/
+
+**run "sudo ./FlashDrive.sh"
